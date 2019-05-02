@@ -1,5 +1,5 @@
 {
-“token”: “NTcxNjUxMzQ5NDQ4NjIyMTEy.XMQ9JQ.81_mbq4wKkUImFahivIcc-w6x4g Discord = require('discord.io');
+“token”: “DG_6g9_wOqQsmr7_I7iq9RZ1OY8dXzoq Discord = require('discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
 // Configure logger settings
